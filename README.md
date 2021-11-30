@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the original project was run yarn start, but I installed npm, therefore I run in the directory project:
+In the original project was run # 'yarn start', but I installed npm, therefore I run in the directory project:
 
 ### `npm install`
 
