@@ -8,7 +8,7 @@ function App() {
 
   useEffect(() => {
     if (state.user === null) {
-      actions.getUser("felipefrmelo");
+      actions.getUser("flaviojaf21");
     }
   });
 
